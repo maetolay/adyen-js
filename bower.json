@@ -1,0 +1,11 @@
+{
+  "name": "adyen-js",
+  "version": "0.1.7",
+  "authors": [
+    "Methee <maeto@hotmail.com>"
+  ],
+  "description": "Adyen javascript client-side encryption library",
+  "hompage": "https://github.com/maetolay/adyen-js",
+  "main": "./js/adyen.encrypt.js",
+  "license": "MIT"
+}
